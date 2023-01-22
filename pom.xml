@@ -21,8 +21,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://65.0.71.231:9000/</sonar.host.url>
-		<sonar.login>squ_a6cf9f6683806458a3df0b815374ea948d4e2e0c</sonar.login>
+		<sonar.host.url>http://13.232.2.179:9000</sonar.host.url>
+		<sonar.login>squ_16aa912f5a382b2ad5c0c2a87bc579225f826659</sonar.login>
 		
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.2.187.245:8081/repository/kotak-release-2</url>
+	      <url>http://65.0.170.157:8081/repository/Rdcc-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.2.187.245:8081/repository/kotak-snapshot/</url>
+	      <url>http://65.0.170.157:8081/repository/Rdcc-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
